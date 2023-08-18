@@ -1,0 +1,15 @@
+$VAR=foo
+$num=123
+print $VAR $num
+pwd
+whoami
+theme red
+$VAR=FOO
+print $VAR $num
+theme blue
+print hello world
+theme green
+$num=321
+print $VAR $num
+ls
+log
